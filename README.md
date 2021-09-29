@@ -1,2 +1,2 @@
 # aharre.github.io
-Personal website setup via http://jmcglone.com/guides/github-pages/
+Personal mock website guided by http://jmcglone.com/guides/github-pages/
