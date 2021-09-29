@@ -1,3 +1,2 @@
 # aharre.github.io
-Personal website
-http://jmcglone.com/guides/github-pages/
+Personal website setup via http://jmcglone.com/guides/github-pages/
